@@ -7,8 +7,6 @@ import android.content.Intent;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.MalformedURLException;
-import java.util.Map;
-import java.util.HashMap;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;

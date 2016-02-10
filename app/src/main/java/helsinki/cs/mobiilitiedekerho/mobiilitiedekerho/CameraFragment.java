@@ -1,9 +1,7 @@
 package helsinki.cs.mobiilitiedekerho.mobiilitiedekerho;
 
 import android.app.Fragment;
-import android.content.DialogInterface;
 import android.content.Intent;
-import android.graphics.Camera;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
@@ -35,7 +33,7 @@ public class CameraFragment extends Fragment implements View.OnClickListener {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         view = inflater.inflate(R.layout.camera_fragment, container, false);
-
+        // Alusta nauhoitusnappi
         Button recordButton =
                 (Button) view.findViewById(R.id.recordButton);
         recordButton.setOnClickListener(this);

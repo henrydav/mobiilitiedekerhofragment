@@ -1,19 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
-
-    <item
-        jar="/Users/Henry/frontend-mt/Mobiilitiedekerho/app/libs/google-http-client-appengine-1.20.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="b6733a7f3d645040177f398f224bb085bffeb541">
-        <dex dex="/Users/Henry/frontend-mt/Mobiilitiedekerho/app/build/intermediates/pre-dexed/debug/google-http-client-appengine-1.20.0_eea078326e66b2fe32dc5ca8001f7aaebf263add.jar" />
-    </item>
-    <item
-        jar="/Users/Henry/frontend-mt/Mobiilitiedekerho/app/libs/httpclient-4.0.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="1d7d28fa738bdbfe4fbd895d9486308999bdf440">
-        <dex dex="/Users/Henry/frontend-mt/Mobiilitiedekerho/app/build/intermediates/pre-dexed/debug/httpclient-4.0.1_fd4660022accd589e7c5c049cdd8a7fa66842a67.jar" />
-    </item>
-
-</items>
+<items version="2" />
